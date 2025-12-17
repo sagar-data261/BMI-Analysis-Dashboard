@@ -1,0 +1,101 @@
+Name,Heights in cm,Weights in kg,Age,Gender,Country,Activity Level,BMI,Status,Age Groups
+John Sharma,166.04,86.2,67,Male,China,Low,31.27,Obese,Old
+Noah Lee,168.8,66.8,57,Female,India,Low,23.44,Normal,Old
+Aarav Smith,151.36,59.8,62,Female,Canada,Low,26.1,Overweight,Old
+Aisha Sharma,165.33,68.8,45,Female,Bangladesh,Low,25.17,Overweight,Adult
+John Singh,151.58,77.7,43,Male,Bangladesh,High,33.82,Obese,Adult
+Emma Khan,188.49,88.2,20,Female,India,Moderate,24.83,Normal,Young
+Aisha Patel,169.82,90.4,51,Female,India,Low,31.35,Obese,Old
+Liam Sharma,169.19,47.7,50,Female,India,High,16.66,Underweight,Adult
+Liam Sharma,159.13,97.6,22,Female,Canada,Low,38.54,Obese,Young
+Aisha Lee,187.7,41.4,51,Male,Sri Lanka,Moderate,11.75,Underweight,Old
+Noah Khan,157.09,70.1,39,Male,USA,High,28.41,Overweight,Adult
+Noah Khan,176.99,90.4,46,Male,Australia,Moderate,28.86,Overweight,Adult
+John Smith,186.99,82.6,63,Male,UK,Low,23.62,Normal,Old
+Noah Brown,150.49,67.8,56,Male,Sri Lanka,High,29.94,Overweight,Old
+Noah Brown,158.8,64.7,57,Male,UAE,High,25.66,Overweight,Old
+Aarav Singh,174.95,96.4,55,Male,USA,High,31.5,Obese,Old
+Noah Sharma,163.59,46.6,41,Male,UAE,Moderate,17.41,Underweight,Adult
+John Singh,176.51,43.9,49,Male,Bangladesh,High,14.09,Underweight,Adult
+John Singh,168.17,81.2,65,Male,USA,High,28.71,Overweight,Old
+Sophia Lee,175.59,54.9,24,Female,USA,High,17.81,Underweight,Young
+John Singh,160.82,57.6,49,Male,UK,Moderate,22.27,Normal,Adult
+Aarav Smith,156.06,94.1,67,Male,Russia,Low,38.64,Obese,Old
+Sophia Sharma,155.12,92.8,65,Male,Bangladesh,High,38.57,Obese,Old
+Noah Patel,188.11,52.6,25,Female,China,High,14.86,Underweight,Young
+Emma Brown,188.72,66.9,36,Female,Bangladesh,Low,18.78,Normal,Adult
+Sophia Singh,168.99,45.1,31,Male,Canada,Moderate,15.79,Underweight,Adult
+Aarav Singh,172.85,96.3,70,Male,Bangladesh,Low,32.23,Obese,Old
+Rahul Smith,182.36,73.2,36,Female,Canada,Moderate,22.01,Normal,Adult
+Noah Brown,161.21,86.5,49,Female,China,Low,33.28,Obese,Adult
+John Sharma,151.34,90.4,42,Male,USA,Moderate,39.47,Obese,Adult
+Aisha Patel,155.56,60.8,64,Male,India,Low,25.13,Overweight,Old
+Noah Khan,158.85,43,50,Male,Canada,Moderate,17.04,Underweight,Adult
+Sophia Lee,189.18,91.8,56,Female,UAE,Moderate,25.65,Overweight,Old
+Emma Brown,165.42,58.9,51,Female,Sri Lanka,High,21.52,Normal,Old
+Liam Singh,171.03,82,70,Male,Bangladesh,Low,28.03,Overweight,Old
+Noah Brown,187.82,66.4,29,Male,China,Moderate,18.82,Normal,Young
+Rahul Singh,188.39,76,39,Male,USA,Low,21.41,Normal,Adult
+Rahul Singh,153.81,95.7,67,Male,India,Moderate,40.45,Obese,Old
+Rahul Singh,180.48,87.7,57,Male,China,Low,26.92,Overweight,Old
+Emma Singh,175.08,42.8,70,Male,Sri Lanka,Low,13.96,Underweight,Old
+Sophia Khan,178.11,90,70,Female,Australia,High,28.37,Overweight,Old
+Rahul Lee,175.32,99.1,52,Female,Canada,Low,32.24,Obese,Old
+Emma Smith,177.67,96.4,61,Male,UAE,Moderate,30.54,Obese,Old
+Aisha Singh,179.9,76.4,43,Female,Australia,Low,23.61,Normal,Adult
+Noah Patel,188.26,96.7,52,Female,India,High,27.28,Overweight,Old
+Aisha Sharma,164.99,99,24,Female,Sri Lanka,Low,36.37,Obese,Young
+John Brown,172.55,95.6,46,Female,Sri Lanka,High,32.11,Obese,Adult
+Liam Sharma,156.02,56.5,40,Male,UK,High,23.21,Normal,Adult
+Rahul Singh,160.66,65.5,56,Male,Bangladesh,Low,25.38,Overweight,Old
+John Sharma,152.67,64.8,31,Male,Sri Lanka,Moderate,27.8,Overweight,Adult
+Aarav Khan,151.38,47.7,33,Male,UK,Moderate,20.82,Normal,Adult
+Liam Singh,176.22,40.2,47,Male,UAE,Low,12.95,Underweight,Adult
+Aisha Lee,181.29,88.6,53,Female,UK,High,26.96,Overweight,Old
+Aarav Sharma,162.96,69.4,28,Female,India,High,26.13,Overweight,Young
+Aisha Sharma,177.36,43.5,58,Female,UK,Low,13.83,Underweight,Old
+Rahul Khan,163.85,61.9,31,Male,Canada,Low,23.06,Normal,Adult
+Aarav Smith,169.69,85.2,39,Male,Australia,Moderate,29.59,Overweight,Adult
+Liam Patel,151.1,64.4,67,Male,Canada,Low,28.21,Overweight,Old
+Sophia Smith,185.69,81,25,Male,Russia,Low,23.49,Normal,Young
+Emma Singh,185.66,92.4,46,Male,UAE,Low,26.81,Overweight,Adult
+Aisha Sharma,162.05,50.1,30,Female,USA,High,19.08,Normal,Young
+Liam Smith,174.72,94.8,69,Female,Russia,Low,31.05,Obese,Old
+Noah Smith,151.6,72.8,63,Male,Russia,Moderate,31.68,Obese,Old
+Aarav Lee,166.5,59.6,23,Female,UAE,High,21.5,Normal,Young
+Noah Patel,168.31,50.2,58,Female,China,Low,17.72,Underweight,Old
+Rahul Lee,183.73,55.6,34,Male,China,Moderate,16.47,Underweight,Adult
+Sophia Smith,158.45,45.5,42,Male,Australia,Moderate,18.12,Underweight,Adult
+Aarav Sharma,169.79,88.7,46,Male,UK,Moderate,30.77,Obese,Adult
+Rahul Lee,180.14,45.7,58,Male,UAE,Moderate,14.08,Underweight,Old
+Sophia Sharma,181.37,82.9,69,Female,USA,High,25.2,Overweight,Old
+Emma Sharma,183.53,71.5,52,Male,Sri Lanka,Moderate,21.23,Normal,Old
+John Patel,171.58,93.1,18,Male,Sri Lanka,High,31.62,Obese,Young
+Aisha Singh,169.91,74.3,20,Male,USA,Moderate,25.74,Overweight,Young
+Emma Brown,180.59,84.4,22,Male,Canada,Moderate,25.88,Overweight,Young
+Rahul Brown,177.54,53.5,20,Male,India,Low,16.97,Underweight,Young
+Emma Brown,153.78,49.8,30,Female,USA,Low,21.06,Normal,Young
+Rahul Smith,182.78,67.7,59,Male,China,Moderate,20.26,Normal,Old
+Rahul Lee,165.1,74,37,Female,China,Moderate,27.15,Overweight,Adult
+John Khan,177.96,90.2,52,Male,Canada,Low,28.48,Overweight,Old
+Aarav Lee,172.18,78.2,42,Male,UAE,Low,26.38,Overweight,Adult
+Aisha Sharma,150.21,45.6,62,Female,Canada,Moderate,20.21,Normal,Old
+Sophia Singh,157.99,67.2,42,Female,Russia,Low,26.92,Overweight,Adult
+Liam Singh,151.42,50.6,26,Male,Sri Lanka,High,22.07,Normal,Young
+Sophia Khan,165.87,72.4,19,Female,Bangladesh,Low,26.31,Overweight,Young
+Noah Brown,171.66,77.2,62,Female,Bangladesh,High,26.2,Overweight,Old
+Rahul Brown,163.58,41.7,42,Male,India,High,15.58,Underweight,Adult
+Aisha Smith,187.01,97.3,62,Male,Sri Lanka,Low,27.82,Overweight,Old
+Sophia Patel,187.59,68.8,58,Male,UK,High,19.55,Normal,Old
+Emma Patel,154.1,60.7,20,Male,UAE,Low,25.56,Overweight,Young
+Liam Singh,186.03,83.6,24,Male,Canada,Moderate,24.16,Normal,Young
+Sophia Smith,158.46,77.3,50,Female,India,High,30.79,Obese,Adult
+Aisha Brown,175.26,63.5,48,Female,Australia,High,20.67,Normal,Adult
+Rahul Brown,180.83,89.2,18,Female,Canada,Low,27.28,Overweight,Young
+John Lee,181.69,83.4,34,Female,UK,High,25.26,Overweight,Adult
+Noah Smith,185.06,80.6,21,Female,UK,High,23.53,Normal,Young
+Sophia Brown,182.4,97.5,45,Male,Canada,High,29.31,Overweight,Adult
+Sophia Patel,188.13,47.8,49,Female,UAE,Low,13.51,Underweight,Adult
+Emma Sharma,188.47,48.8,26,Female,Russia,High,13.74,Underweight,Young
+Aisha Khan,168.74,50.7,60,Female,Russia,Moderate,17.81,Underweight,Old
+Aisha Sharma,174.33,44.8,42,Male,USA,Moderate,14.74,Underweight,Adult
