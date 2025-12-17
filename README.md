@@ -30,8 +30,8 @@ An end-to-end data analysis project that analyzes Body Mass Index (BMI) data acr
 ---
 
 ## Dashboard Preview
-Images/Dashboard.png.png
----
+[Images/Dashboard.png.png
+](https://github.com/sagar-data261/BMI-Analysis-Dashboard/blob/9ac6d365ef766de4eb5c89bc53e9f1072a54fcad/Images/Dashboard.png.png)---
 
 ## 📌 Key Learnings
 - Data generation using Python
