@@ -30,8 +30,7 @@ An end-to-end data analysis project that analyzes Body Mass Index (BMI) data acr
 ---
 
 ## Dashboard Preview
-![BMI Dashboard](Images/dashboard.png)
-
+Images
 ---
 
 ## 📌 Key Learnings
