@@ -29,6 +29,10 @@ An end-to-end data analysis project that analyzes Body Mass Index (BMI) data acr
 
 ---
 
+## Dashboard Preview
+![BMI Dashboard](Images/dashboard.png)
+
+---
 
 ## 📌 Key Learnings
 - Data generation using Python
